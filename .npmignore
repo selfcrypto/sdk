@@ -1,0 +1,35 @@
+# Source
+src/
+
+# Config files
+tsconfig.json
+jest.config.js
+tsup.config.ts
+.prettierrc
+.eslintrc
+
+# Development folders
+.vscode/
+.github/
+.changeset/
+coverage/
+
+# Tests
+**/__tests__/
+**/*.test.ts
+**/*.spec.ts
+
+# Development files
+*.log
+.DS_Store
+.env
+.env.*
+
+# Package manager files
+pnpm-lock.yaml
+.npmrc
+
+# IDE
+.idea/
+*.swp
+*.swo 
