@@ -1,5 +1,11 @@
 # @selfcrypto/sdk
 
+## 0.0.4
+
+### Patch Changes
+
+- 21ffbc2: Update installation instructions in README.md to include specific version of ethers (5.7.2) as a peer dependency.
+
 ## 0.0.3
 
 ### Patch Changes
