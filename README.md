@@ -5,15 +5,15 @@ A JavaScript/TypeScript SDK for interacting with Self Crypto names and their met
 ## Installation
 
 ```bash
-npm install @selfcrypto/sdk
+npm install @selfcrypto/sdk ethers@5.7.2
 ```
 or
 ```bash
-yarn add @selfcrypto/sdk
+yarn add @selfcrypto/sdk ethers@5.7.2
 ```
 or
 ```bash
-pnpm add @selfcrypto/sdk
+pnpm add @selfcrypto/sdk ethers@5.7.2
 ```
 
 ## Quick Start
